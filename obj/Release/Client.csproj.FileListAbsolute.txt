@@ -1,0 +1,9 @@
+C:\Users\Adrian\Desktop\Client\Client\bin\Release\Client.exe.config
+C:\Users\Adrian\Desktop\Client\Client\bin\Release\Client.exe
+C:\Users\Adrian\Desktop\Client\Client\bin\Release\Client.pdb
+C:\Users\Adrian\Desktop\Client\Client\obj\Release\Client.Form1.resources
+C:\Users\Adrian\Desktop\Client\Client\obj\Release\Client.Properties.Resources.resources
+C:\Users\Adrian\Desktop\Client\Client\obj\Release\Client.csproj.GenerateResource.Cache
+C:\Users\Adrian\Desktop\Client\Client\obj\Release\Client.exe
+C:\Users\Adrian\Desktop\Client\Client\obj\Release\Client.pdb
+C:\Users\Adrian\Desktop\Client\Client\obj\Release\Client.csprojResolveAssemblyReference.cache
